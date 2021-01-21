@@ -1,3 +1,3 @@
 # Repl-Scraper
 
-Use this to scrape repls lol, easy to use
+Wont work no more, repl fixed earlier today, repl K
